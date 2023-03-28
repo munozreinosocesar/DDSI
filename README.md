@@ -7,4 +7,4 @@ El presente proyecto se trata de una aplicación que controla y gestiona las dis
 
 - En cuanto al desarrollo o implementación, se tomará la información recogida en el diseño para crear una base de datos. Se implementarán las distintas funciones que llevarán a cabo las tareas a cumplir (requisitos). 
 
-La documentación se encuentra en
+La documentación se encuentra en [Zapateria.pdf](https://github.com/CesarMunozReinoso/DDSI/files/11092354/Zapateria.pdf)
