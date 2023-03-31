@@ -1,5 +1,5 @@
 # DDSI
-Proyecto final de la asignatura Diseño y desarrollo de sistemas de información en la Universidad de Granada (UGR) 
+Proyecto final de la asignatura Diseño y Desarrollo de Sistemas de Información en la Universidad de Granada (UGR) 
 
 El presente proyecto se trata de una aplicación que controla y gestiona las distintas tareas que puede realizar un comercio , en concreto, una tienda de zapatillas.
 
@@ -11,7 +11,7 @@ La documentación se encuentra en [Zapateria.pdf](https://github.com/CesarMunozR
 
 ------
 
-Final project for the subject "Design and Development of Information Systems" at the University of Granada (UGR)
+Final project for the course "Design and Development of Information Systems" at the University of Granada (UGR)
 
 This project is an application that controls and manages the various tasks that a store can perform, specifically a shoe store.
 
